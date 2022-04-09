@@ -13,7 +13,9 @@ Learning to use GitHub
 2. Second item
 3. Third item
 
-'code: #include \<stdlib\>'
+`code` 
+
+`code: #include \<stdlib\>`
   
 ---
   
