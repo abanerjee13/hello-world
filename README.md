@@ -4,6 +4,7 @@ Learning to use GitHub
 ## Subheading
 
 **Ashish Banerjee in bold**
+
 *Italicized*
 
 > Blockquote
@@ -12,7 +13,7 @@ Learning to use GitHub
 2. Second item
 3. Third item
 
-'' code: #include <stdlib> ''
+' code: #include \<stdlib\> '
   
 ---
   
